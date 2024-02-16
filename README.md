@@ -1,30 +1,21 @@
-### Statistical Learning vs Machine Learning :
+### Newcomer to the world of data science 📊 :
 
-- __Overview__ 🔎 :
-  
-In the field of econometrics and machine learning, the question of automatic variable selection arises, particularly when dealing with datasets containing numerous potential predictors. Procedures can be artificially distinguished between those involving inference (statistical learning) and those without (machine learning). In the context of this dissertation, we have studied different variable selection methods falling under statistical learning (forward, backward, stepwise selection) and machine learning (LASSO, LARS, ELASTICNET). This README outlines a project aimed at evaluating the performance of these methods using simulated data and considering various stopping criteria (AIC, BIC, CV, etc.).
+As a master's student in statistical econometrics, I'm immersed in the exciting world of data analysis. Passionate about discovering and interpreting the information hidden in data, I strive to apply my knowledge to solve real-life problems. Alongside my studies, I am actively involved in voluntary and humanitarian initiatives, seeking to implement concrete projects that make a positive contribution to society.
 
-- __Project Description__ 💻:
-  
-This article focuses on assessing the effectiveness of various variable selection techniques across four distinct data scenarios. 
+__My academic projects__ 🎓 : 
 
-For this study, we employed algorithms generating four types of data under different assumptions (H0: data independence and H1: data dependence), created through Monte Carlo simulations. The true model was defined as comprising an intercept with all variables ranging from X1 to X5. Simultaneously, we calculated performance metrics to evaluate each method's ability to identify the correct model. These metrics encompass perfect fit (matching the true model), overfit (obtaining the true model with additional variables), underfit (failure to include all true model variables), and fail (incorrect selection of additional variables, leading to an incomplete true model representation).
+- Statistical learning vs Machine learning (SAS)
+- Spotify data analysis (Python)
+- Machine learning project (Python & R)
+- Edinburgh airport data science project (Python)
 
-- __Keywords__ 🔑:
+__My community life__ 🌍 : 
 
-Statistical learning,
-Machine learning,
-Forward / backward / Stepwise selection,
-Forward Stagewise / LARS / LASSO / ELASTICNET,
-AIC / AICc / BIC / K-fold cross-validation / PRESS,
-SAS: proc glmselect, proc iml, proc freq
+- Member of the Prométhée Association network
+- Volunteer with the Epicyerres Association
+- Founder of the Ayâr's Hope project (Niger)
+- Founder of the Help for Cedar project (Lebanon)
 
-- __Instructions__ 📋:
-  
-To replicate or build upon this project, follow the steps outlined in the project documentation. Ensure that all dependencies are installed and configured correctly. For any questions or issues, please refer to the documentation or contact the project contributors.
+__Find me__ 📧:
 
-- __Contributors__ 👩‍🎓:
-  
-Lia GASPARIN-GRANGER,
-Samanta LAMOUR,
-Nora AANKOUD
+To [Your LinkedIn Profile](https://www.linkedin.com/in/lia-gasparin-159698230/)
