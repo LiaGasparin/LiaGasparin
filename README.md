@@ -20,9 +20,11 @@ AIC / AICc / BIC / K-fold cross-validation / PRESS
 SAS: proc glmselect, proc iml, proc freq
 
 - __Instructions__ 📋:
+  
 To replicate or build upon this project, follow the steps outlined in the project documentation. Ensure that all dependencies are installed and configured correctly. For any questions or issues, please refer to the documentation or contact the project contributors.
 
 - __Contributors__ 👩‍🎓:
+  
 Lia GASPARIN-GRANGER
 Samanta LAMOUR
 Nora AANKOUD
