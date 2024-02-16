@@ -12,11 +12,11 @@ For this study, we employed algorithms generating four types of data under diffe
 
 - __Keywords__ 🔑:
 
-Statistical learning
-Machine learning
-Forward / backward / Stepwise selection
-Forward Stagewise / LARS / LASSO / ELASTICNET
-AIC / AICc / BIC / K-fold cross-validation / PRESS
+Statistical learning,
+Machine learning,
+Forward / backward / Stepwise selection,
+Forward Stagewise / LARS / LASSO / ELASTICNET,
+AIC / AICc / BIC / K-fold cross-validation / PRESS,
 SAS: proc glmselect, proc iml, proc freq
 
 - __Instructions__ 📋:
@@ -25,6 +25,6 @@ To replicate or build upon this project, follow the steps outlined in the projec
 
 - __Contributors__ 👩‍🎓:
   
-Lia GASPARIN-GRANGER
-Samanta LAMOUR
+Lia GASPARIN-GRANGER,
+Samanta LAMOUR,
 Nora AANKOUD
